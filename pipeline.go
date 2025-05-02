@@ -1,3 +1,6 @@
+// This was my approach to the task from https://github.com/PipeOpsHQ/golang-take-home-test
+// Note: No tests have been written for this implementation.
+
 package main
 
 import "math/rand"
